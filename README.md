@@ -14,7 +14,7 @@ I am Dominik Mezler, also known as bluewingtitan.
 - 📚 ... a networking library designed for game-clients+servers (the one I developed for **aton**) **\[dotnet-core\]**
 - 🎲 ... some random small side projects, some public, most private. **\[react-native, express, java+spigot, bash, a lot more\]**
 
-> Using C is like bringing a gunfight to a knife.
+> Using C is like bringing a gunfight to a knife. Using assembly is like using orbital lasers for tatooing ants.
 
 ### More unsorted facts about me
 - he/him.
