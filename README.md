@@ -1,5 +1,5 @@
-### 👋 Hi! Hope you are doing great today!
-I am Dominik Mezler, also known as bluewingtitan.
+# 👋 Hi! Hope you are doing great today!
+#### I am Dominik Mezler, also known as bluewingtitan.
 
 ### Some basic stuff:
 - 🏙️ Stuttgart, Germany
