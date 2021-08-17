@@ -26,3 +26,5 @@ I am Dominik Mezler, also known as bluewingtitan.
 - Content Creation > Content Consumption
 
 > Sex is cool and all, but have you ever written code that worked instantly?
+
+Oh. Here is my [Personal Website](https://bluewingtitan.com) I didn't link to earlier because it does not format correctly in the brave browser because of reasons?!? The information on there is contained within the information here, so you are not missing out, fellow brave users.
