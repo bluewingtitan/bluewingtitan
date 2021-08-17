@@ -19,4 +19,4 @@ I am Dominik Mezler, also known as bluewingtitan.
 - I belive in open software and open minds.
 - Linux is my daily driver (debian on servers, pop!\_os on desktop).
 - My go-to languages are C# and javascript/ecmascript. While I occasionaly work with other langs (go, python, java), most of my projects are either C# or js. I am working with Unity3D for my games and dotnet-core/asp.net-core for my game servers. My most used frontend framework is react and I am working on a (for now) secret app with react-native since a few months.
-- Reddit and YouTube. Inactive anywhere else.
+- Content Creation > Content Consumption
