@@ -12,7 +12,7 @@
 - ▶️ ... [YouTube](https://www.youtube.com/channel/UCYJK_p4j89fJDlEQ5-gDoiA/videos) (Devlogs, other Indie-Game related topics) **\[DaVinci Resolve, Ableton\]**
 - 🎮 ... **aton**, a multiplayer Tower Offense/Defense-Game (more about it on my youtube!) **\[unity3d, dotnet-core\]**
 - 📚 ... a networking library designed for game-clients+servers (the one I developed for **aton**) **\[dotnet-core\]**
-- 🎲 ... some random small side projects, some public, most private. **\[react-native, express, java+spigot, bash, a lot more\]**
+- 🎲 ... some random small side projects, some public, most private. **\[react-native, angular, express, spigot, bash-stuff, a lot more\]**
 
 > Sometimes using C is like bringing a gunfight to a knife. Using assembly is like using orbital lasers for tatooing ants.
 
@@ -21,10 +21,10 @@
 - I am a passionate electronic musician, lyricist and It-guy.
 - I am a bit picky about what I do, but if I am rolling with it, I want to make it right.
 - I belive in open software and open minds.
-- Linux is my daily driver (debian on servers, pop!\_os on desktop).
-- My go-to languages are C# and javascript/ecmascript. While I occasionaly work with other langs (go, python, java), most of my projects are either C# or js. I am working with Unity3D for my games and dotnet-core/asp.net-core for my game servers. My most used frontend framework is react and I am working on a (for now) secret app with react-native since a few months.
-- Content Creation > Content Consumption
+- Linux is my daily driver (debian on servers, pop!\_os on desktop), but I try not being prophetical about it.
+- My go-to languages are C# and javascript. While I often work with other langs (ruby, python, java), most of my projects are either C# or js. I am working with Unity3D or Godot for my games and dotnet-core/asp.net-core for my game servers. My most used frontend framework is react and I am working on a (for now) secret app with react-native since a few months.
+- Content Creation feels better than Content Consumption
 
-> Sex is cool and all, but have you ever written code that worked instantly?
+> Sex is cool and all, but have you ever written complex code that worked instantly?
 
 <sub>Oh. Here is my [Personal Website](https://bluewingtitan.com) I didn't link to earlier because it does not format correctly in the brave browser because of reasons?!? The information on there is contained within the information here, so you are not missing out.</sub>
