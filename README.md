@@ -19,6 +19,7 @@
 ### More unsorted facts about me
 - he/him.
 - I am a passionate electronic musician, lyricist and It-guy.
+- Not a prophet for any framework or lang. Just use the right tool for the right job...
 - I am a bit picky about what I do, but if I am rolling with it, I want to make it right.
 - I belive in open software and open minds.
 - Linux is my daily driver (debian on servers, pop!\_os on desktop), but I try not being prophetical about it.
