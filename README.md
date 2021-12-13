@@ -8,10 +8,9 @@
 > Back in the days I wasn't able to understand code, but now I C#
 
 ### I am currently working on...
-- 🌎 ... [Marble](https://app.marblear.com), the next generation of the internet **\[meteor + react, unity3d\]**
 - ▶️ ... [YouTube](https://www.youtube.com/channel/UCYJK_p4j89fJDlEQ5-gDoiA/videos) (Devlogs, other Indie-Game related topics) **\[DaVinci Resolve, Ableton\]**
 - 🎮 ... **aton**, a multiplayer Tower Offense/Defense-Game (more about it on my youtube!) **\[unity3d, dotnet-core\]**
-- 📚 ... a networking library designed for game-clients+servers (the one I developed for **aton**) **\[dotnet-core\]**
+- 📚 ... a networking library designed for game-clients+servers **\[dotnet-core\]**
 - 🎲 ... some random small side projects, some public, most private. **\[react-native, angular, express, spigot, bash-stuff, a lot more\]**
 
 > Sometimes using C is like bringing a gunfight to a knife. Using assembly is like using orbital lasers for tatooing ants.
