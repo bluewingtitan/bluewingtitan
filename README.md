@@ -22,7 +22,7 @@
 - I am a bit picky about what I do, but if I am rolling with it, I want to make it right.
 - I belive in open software and open minds.
 - Linux is my daily driver (debian on servers, manjaro + pop!\_os on desktop), but I try not being prophetical about it.
-- My go-to languages are C# and javascript. While I often work with other langs (ruby, python, java), most of my projects are either C# or js. I am working with Unity3D or Godot for my games and dotnet-core/asp.net-core for my game servers. My most used frontend framework is react and I am working on a (for now) secret app with react-native since a few months.
+- My go-to languages are C# and typescript. While I often work with other langs (ruby, python, java, plain ecmascript), most of my projects are either C# or js. I am working with Unity3D or Godot for my games and dotnet-core/asp.net-core for my game servers. My most used frontend framework is react and I am working on a (for now) secret app with react-native since a few months.
 - Content Creation feels better than Content Consumption
 
 > Sex is cool and all, but have you ever written complex code that worked instantly?
