@@ -11,7 +11,7 @@
 - ▶️ ... [YouTube](https://www.youtube.com/channel/UCYJK_p4j89fJDlEQ5-gDoiA/videos) (Devlogs, other Indie-Game related topics) **\[DaVinci Resolve, Ableton\]**
 - 🎮 ... **aton**, a multiplayer Tower Offense/Defense-Game (more about it on my youtube!) **\[unity3d, dotnet\]**
 - 📚 ... [multiNoa](https://github.com/bluewingtitan/multiNOA), a networking library designed for single-project client+server architecture **\[dotnet, unity3d\]**
-- 🎲 ... some random small side projects, some public, most private. **\[react-native, angular, express, spigot, bash-stuff, a lot more\]**
+- 🎲 ... some random small side projects, some public, most private. **\[godot engine, react-native, angular, express, spigot, bash-stuff, a lot more\]**
 
 > Sometimes using C is like bringing a gunfight to a knife. Using assembly is like using orbital lasers for tatooing ants.
 
