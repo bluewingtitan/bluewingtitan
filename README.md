@@ -9,7 +9,7 @@
 
 ### I am currently working on...
 - ▶️ ... [YouTube](https://www.youtube.com/channel/UCYJK_p4j89fJDlEQ5-gDoiA/videos) (Devlogs, other Indie-Game related topics) **\[DaVinci Resolve, Ableton\]**
-- 🎮 ... **aton**, a multiplayer Tower Offense/Defense-Game (more about it on my youtube!) **\[unity3d, dotnet\]**
+- 🎮 ... A game concept that people told me I will not get to work, because if it would be possible, people would have done it before me (It's already working by the way). More coming soon. **\[dotnet, godot, react\]**
 - 📚 ... [multiNoa](https://github.com/bluewingtitan/multiNOA), a networking library designed for single-project client+server architecture **\[dotnet, unity3d\]**
 - 🎲 ... some random small side projects, some public, most private. **\[godot engine, react-native, angular, express, spigot, bash-stuff, a lot more\]**
 
