@@ -25,6 +25,6 @@
 - My go-to languages are C# and typescript. While I often work with other langs (ruby, python, java, plain ecmascript), most of my projects are either C# or ts/js. I am working with Unity3D or sometimes Godot for games and .Net for my game servers, but with ts and meteor or express for non-game backends. My most used frontend framework is react and I am working on an app with react-native since a few months.
 - Content Creation feels better than Content Consumption
 
-> Sex is cool and all, but have you ever written an rl-encoding implementation that worked instantly?
+> Care for a C Joke? Knock Knock! — Race Condition. Did you get it? The reference? Do you need pointers?
 
 <sub>Oh. Here is my [Personal Website](https://bluewingtitan.com) I didn't link to earlier because it does not format correctly in the brave browser because of reasons?!? The information on there is contained within the information here, so you are not missing out.</sub>
