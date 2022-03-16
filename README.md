@@ -2,7 +2,7 @@
 #### I am Dominik, also known as bluewingtitan.
 
 ### Some basic stuff:
-- 🏙️ Stuttgart, Germany
+- 🏙️ Bruchsal, Germany
 - 🏫 [HdM-Stuttgart](https://www.hdm-stuttgart.de/en), enrolled for [Computer Science and Media](https://www.hdm-stuttgart.de/en/prospective_students/academic_programs/bachelor_programs/steckbrief?sgang_ID=550033)
 
 > Back in the days I wasn't able to understand code, but now I C#
