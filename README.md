@@ -9,7 +9,7 @@
 
 ### I am currently working on...
 - ▶️ ... [YouTube](https://www.youtube.com/channel/UCYJK_p4j89fJDlEQ5-gDoiA/videos) (Devlogs, other Indie-Game related topics) **\[DaVinci Resolve, Ableton\]**
-- 🎮 ... [A game](https://five-thousand-kings.github.io/TodoGrow/) aimed at teaching people to program without them noticing **\[dotnet, pbscript\]**
+- 🎮 ... [A game](https://five-thousand-kings.github.io/TodoGrow/) aimed at teaching people to program without them noticing (with a custom interpreted language) **\[dotnet, [pbscript](https://github.com/bluewingtitan/PBScript)\]**
 - 📚 ... [multiNoa](https://github.com/bluewingtitan/multiNOA), a networking library designed for single-project client+server architecture **\[dotnet, unity3d\]**
 - 🎲 ... some random small side projects, some public, most private. **\[godot engine, react-native, angular, express, spigot, bash-stuff, a lot more\]**
 
