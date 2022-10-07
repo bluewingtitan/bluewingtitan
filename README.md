@@ -2,16 +2,16 @@
 #### I am Dominik, also known as bluewingtitan.
 
 ### Some basic stuff:
-- 🏙️ Bruchsal, Germany
+- 🏙️ Stuttgart, Germany
 - 🏫 [HdM-Stuttgart](https://www.hdm-stuttgart.de/en), enrolled for [Computer Science and Media](https://www.hdm-stuttgart.de/en/prospective_students/academic_programs/bachelor_programs/steckbrief?sgang_ID=550033)
 
 > Back in the days I wasn't able to understand code, but now I C#
 
 ### I am currently working on...
 - ▶️ ... [YouTube](https://www.youtube.com/channel/UCYJK_p4j89fJDlEQ5-gDoiA/videos) (Devlogs, other Indie-Game related topics) **\[DaVinci Resolve, Ableton\]**
-- 🎮 ... [A game](https://five-thousand-kings.github.io/TodoGrow/) aimed at teaching people to program without them noticing (with a custom interpreted language) **\[dotnet, [pbscript](https://github.com/bluewingtitan/PBScript)\]**
-- 📚 ... [multiNoa](https://github.com/bluewingtitan/multiNOA), a networking library designed for single-project client+server architecture **\[dotnet, unity3d\]**
-- 🎲 ... some random small side projects, some public, most private. **\[godot engine, react-native, angular, express, spigot, bash-stuff, a lot more\]**
+- 🎮 ... [A Game](https://github.com/Five-Thousand-Kings/FriskyFarmers) about farming, for frisky friends finding fun. **\[unity3d, dotnet]**
+- 📚 ... [MontyPlayer](https://github.com/Five-Thousand-Kings/MontyPlayer), a suite of tools aimed at building multiplayer experiences **\[dotnet, unity3d\]**
+- 🎲 ... some random small side projects, some public, most private. **\[godot engine, react-native, angular, express, spigot, bash, a lot more\]**
 
 > Sometimes using C is like bringing a gunfight to a knife. Using assembly is like using orbital lasers for tatooing ants.
 
