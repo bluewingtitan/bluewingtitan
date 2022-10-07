@@ -13,7 +13,7 @@
 - 📚 ... [MontyPlayer](https://github.com/Five-Thousand-Kings/MontyPlayer), a suite of tools aimed at building multiplayer experiences **\[dotnet, unity3d\]**
 - 🎲 ... some random small side projects, some public, most private. **\[godot engine, react-native, angular, express, spigot, bash, a lot more\]**
 
-> Sometimes using C is like bringing a gunfight to a knife. Using assembly is like using orbital lasers for tatooing ants.
+> Sometimes using C is like bringing a gunfight to a knife and using assembly is like using orbital lasers for tatooing ants.
 
 ### More unsorted facts about me
 - he/him.
