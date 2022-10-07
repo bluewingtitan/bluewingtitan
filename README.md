@@ -21,7 +21,7 @@
 - Not a prophet for any framework or lang. Just use the right tool for the right job...
 - I am a bit picky about what I do, but if I am rolling with it, I want to make it right.
 - I belive in open software and open minds.
-- Linux is my daily driver (debian on servers, manjaro + manjaro on desktop), but I try not being prophetical about it.
+- Linux is my daily driver (debian on servers, manjaro and popos on desktop), but I try not being prophetical about it.
 - My go-to languages are C# and typescript. While I often work with other langs (ruby, python, java, plain ecmascript), most of my projects are either C# or ts/js. I am working with Unity3D or sometimes Godot for games and .Net for my game servers, but with ts and meteor or express for non-game backends. My most used frontend framework is react and I am working on an app with react-native since a few months.
 - Content Creation feels better than Content Consumption
 
