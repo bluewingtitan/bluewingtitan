@@ -26,5 +26,3 @@
 - Content Creation feels better than Content Consumption
 
 > Care for a C Joke? Knock Knock! — Race Condition. Did you get it? The reference? Do you need pointers?
-
-<sub>Oh. Here is my [Personal Website](https://bluewingtitan.com) I didn't link to earlier because it does not format correctly in the brave browser because of reasons?!? The information on there is contained within the information here, so you are not missing out.</sub>
