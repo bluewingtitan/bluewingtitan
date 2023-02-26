@@ -9,7 +9,8 @@
 
 ### I am currently working on...
 - ▶️ ... [YouTube](https://www.youtube.com/channel/UCYJK_p4j89fJDlEQ5-gDoiA/videos) (Devlogs, other Indie-Game related topics) **\[DaVinci Resolve, Ableton\]**
-- 🎮 ... [A Game](https://github.com/Five-Thousand-Kings/FriskyFarmers) about farming, for frisky friends finding fun. **\[unity3d, dotnet]**
+- 🎮 ... [A Game](https://github.com/Five-Thousand-Kings/TodoGrow) about farming **\[dotnet, discord]**
+- 💬 ... [A framework](https://github.com/Five-Thousand-Kings/Basket) for easily adding domain specific languages to (unity) game projects **\[dotnet, unity]**
 - 📚 ... [MontyPlayer](https://github.com/Five-Thousand-Kings/MontyPlayer), a suite of tools aimed at building multiplayer experiences **\[dotnet, unity3d\]**
 - 🎲 ... some random small side projects, some public, most private. **\[godot engine, react-native, angular, express, spigot, bash, a lot more\]**
 
