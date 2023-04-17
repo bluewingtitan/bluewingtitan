@@ -9,8 +9,8 @@
 
 ### I am currently working on...
 - ▶️ ... [YouTube](https://www.youtube.com/channel/UCYJK_p4j89fJDlEQ5-gDoiA/videos) (Devlogs, other Indie-Game related topics) **\[DaVinci Resolve, Ableton\]**
-- 🎮 ... [A Game](https://github.com/Five-Thousand-Kings/TodoGrow) about farming **\[dotnet, discord]**
-- 💬 ... [A framework](https://github.com/Five-Thousand-Kings/Basket) for easily adding domain specific languages to (unity) game projects **\[dotnet, unity]**
+- 🎮 ... [A Game](https://github.com/Five-Thousand-Kings/TodoGrow) about coding and farming**\[dotnet, discord]**
+- 💬 ... [A framework](https://github.com/Five-Thousand-Kings/Basket) for easily adding domain specific languages to (unity) game projects**\[dotnet, unity]**
 - 📚 ... [MontyPlayer](https://github.com/Five-Thousand-Kings/MontyPlayer), a suite of tools aimed at building multiplayer experiences **\[dotnet, unity3d\]**
 - 🎲 ... some random small side projects, some public, most private. **\[godot engine, react-native, angular, express, spigot, bash, a lot more\]**
 
@@ -18,12 +18,12 @@
 
 ### More unsorted facts about me
 - he/him.
-- I am a passionate electronic musician, lyricist and It-guy.
+- I am a passionate electronic musician, lyricist and It-guy™.
 - Not a prophet for any framework or lang. Just use the right tool for the right job...
 - I am a bit picky about what I do, but if I am rolling with it, I want to make it right.
 - I belive in open software and open minds.
-- Linux is my daily driver (debian on servers, manjaro and Pop!\_OS on desktop), but I try not being prophetical about it.
-- My go-to languages are C# and typescript. While I often work with other langs (ruby, python, java, plain ecmascript), most of my projects are either C# or ts/js. I am working with Unity3D or sometimes Godot for games and .Net for my game servers, but with ts and meteor or express for non-game backends. My most used frontend framework is react and I am working on an app with react-native since a few months.
-- Content Creation feels better than Content Consumption
+- Linux is my daily driver (debian on servers, manjaro and Pop!\_OS on desktop), but I am not prophetical about it.
+- My go-to languages are C# and typescript. Professionally I mostly work with C++.
+- Content Creation feels better than Content Consumption.
 
 > Care for a C Joke? Knock Knock! — Race Condition. Did you get it? The reference? Do you need pointers?
