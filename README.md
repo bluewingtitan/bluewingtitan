@@ -1,4 +1,4 @@
-# [👋](https://docs.google.com/presentation/d/1tIjz0KrrKsMpNf2QVGf2jMZY5AxeI4zWRmDY9Ld8j1c/edit?usp=sharing) Hi! Hope you are doing great today!
+# 👋 Hi! Hope you are doing great today!
 #### I am Dominik, also known as bluewingtitan.
 
 ### Some basic stuff:
