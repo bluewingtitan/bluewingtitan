@@ -5,7 +5,7 @@
 # What I worked on lately
 Most of my time is spent writing Software for [S&P SCS](http://sup-scs.de/).
 
-In my free time, most of my time is spent working on projects together with a few other devs under the umbrella of [5000K](https://github.com/5000K).
+In my free time, I am working on projects together with a few other devs under the umbrella of [5000K](https://github.com/5000K).
 
 Some notable projects I recently worked on:
 - [doth](https://github.com/5000K/doth) - a templating dotfile manager written in go
